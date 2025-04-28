@@ -10,5 +10,5 @@ gem 'rouge', '~> 2.0.5'
 gem 'redcarpet', '~> 3.4.0'
 gem 'nokogiri', '~> 1.10.4'
 
-gem 'middleman-s3_sync', '~> 4.0.3'
+gem 'middleman-s3_sync', '~> 4.5.0'
 gem 'mime-types', '~> 3.1'
